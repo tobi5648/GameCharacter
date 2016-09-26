@@ -11,8 +11,10 @@ namespace GameCharacter
     /// </summary>
     public class Character
     {
+        //  The variables used in the class
         #region Variables
        
+        //  The fields used in the class
         #region Fields
 
         /// <summary>
@@ -27,6 +29,7 @@ namespace GameCharacter
 
         #endregion
 
+        //  The properties to the fields in the class
         #region Properties
 
         /// <summary>
@@ -65,8 +68,14 @@ namespace GameCharacter
 
         #endregion
 
+        //  The constructors in the class
         #region Constructors
 
+        /// <summary>
+        /// The constructor of the class Character
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="level"></param>
         public Character(string name, byte level)
         {
             Name = name;

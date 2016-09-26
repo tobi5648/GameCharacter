@@ -11,8 +11,10 @@ namespace GameCharacter
     /// </summary>
     public class Player : Character
     {
+        //  The variables in the class
         #region Variables
        
+        //  The fields in the class
         #region Fields
 
         /// <summary>
@@ -22,6 +24,7 @@ namespace GameCharacter
         
         #endregion
 
+        //  The properties in the class
         #region Properties
 
         /// <summary>
@@ -44,6 +47,7 @@ namespace GameCharacter
 
         #endregion
 
+        //  The constructors in the class
         #region Constructors
 
         /// <summary>
