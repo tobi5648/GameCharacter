@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="ProjectPath = ..\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-09-22T11:43:05" Importance="Medium" Text="ClassDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ClassDiagram::Character' -  (Class), 'ClassDiagram::Player' -  (Class), 'ClassDiagram::NonPlayerCharacter' -  (Class) " />
+  <Message Timestamp="2016-09-22T11:43:06" Importance="Medium" Text="Project Added: \\cv.local\dfs\Students\tobi5648\Documents\Visual Studio 2015\Projects\S3\GameCharacter\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-09-22T11:43:06" Importance="Medium" Text="'ClassDiagram::Character' -  (Class) : success (file replaced) - \\cv.local\dfs\Students\tobi5648\Documents\Visual Studio 2015\Projects\S3\GameCharacter\ClassDiagramLib\GeneratedCode\Character.cs" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Medium" Text="'ClassDiagram::Player' -  (Class) : success (file replaced) - \\cv.local\dfs\Students\tobi5648\Documents\Visual Studio 2015\Projects\S3\GameCharacter\ClassDiagramLib\GeneratedCode\Player.cs" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Medium" Text="'ClassDiagram::NonPlayerCharacter' -  (Class) : success (file replaced) - \\cv.local\dfs\Students\tobi5648\Documents\Visual Studio 2015\Projects\S3\GameCharacter\ClassDiagramLib\GeneratedCode\NonPlayerCharacter.cs" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="ProjectPath = ..\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Medium" Text="ClassDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ClassDiagram::Character' -  (Class), 'ClassDiagram::Player' -  (Class), 'ClassDiagram::NonPlayerCharacter' -  (Class) " />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="'ClassDiagram::Character' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="'ClassDiagram::Player' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="'ClassDiagram::NonPlayerCharacter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="The selection included 2 elements which were not bound to a template." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="'cb0e6bae-ed85-48c0-8b00-034e7d75a6b3' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="Diagnostic" Text="'e3c4a8d9-f824-4269-9c79-86d65572bb19' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-09-22T11:43:07" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
